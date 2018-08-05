@@ -1,0 +1,21 @@
+{
+  "name": "ASNOBEL-QUOTETOME",
+  "description": "A QUOTE TO ME CHALLENGE",
+  "version": "1.0.0",
+  "author": "Aaron Snobel <aaronsnobel@aaronsnobel.ca>",
+  "license": "MIT",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^16.0.6",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts-ts": "2.x",
+    "typescript": "^3.0.1"
+  }
+}
